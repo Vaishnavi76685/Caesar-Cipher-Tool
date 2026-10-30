@@ -32,5 +32,8 @@ https://github.com/Vaishnavi76685/Caesar-Cipher-Tool
 ## Disclaimer
 Caesar Cipher is a basic educational encryption technique. It should not be used to protect sensitive information.
 
+## Project Screenshot
+
+![Caesar Cipher Tool](screenshots/caesar-cipher-tool.png)
 ## Author
 Vaishnavi
